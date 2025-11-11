@@ -16,7 +16,7 @@ Contributed to the design and implementation of IoT-based systems for environmen
 
 Developed and maintained application modules, ensuring system reliability, scalability, and performance efficiency.
 
-## SIMATE-WEB APPLICATION
+## SIMATE-WEB APPLICATION FILIPINO WEB DEVELOPMENT PEERS (MID 2025)
 Project Name: Simate Web Application
 Role: Web Designer  (Filipino Web Development Peers)
 
@@ -30,7 +30,7 @@ Currently completing Microsoft Learn modules and virtual labs focused on cloud c
 
 Engaged in AWS Skill Builder training to build foundational knowledge in cloud architecture, core services, and scalable application deployment.
 
-AWS Educate Member 
+ ## AWS Educate Member 
 
 Actively explore cloud concepts and services under Amazon Web Services. My learning path includes topics like EC2, S3, IAM, and serverless architecture. I’m currently progressing beyond my assigned curriculum level
 
