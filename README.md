@@ -25,7 +25,7 @@ Designed responsive, user-focused websites and collaborated with Filipino profes
 
 ## Project Leader
 
-Successfully led and presented the AI-enabled Unicast Event Planning Management System through an online platform on May 8, 2025
+Led the development and succesfully  presentation of the Unicast Event Planning Management System on May 8, 2025, with features for intelligent scheduling, smart recommendations, and automated event optimization
 
 ## Microsoft Trainee
 
