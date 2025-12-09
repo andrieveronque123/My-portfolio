@@ -22,6 +22,11 @@ Role: Web Designer  (Filipino Web Development Peers)
 
 Designed responsive, user-focused websites and collaborated with Filipino professionals on the Simate Web Application.
 
+
+## Project Leader
+
+Successfully led and presented the AI-enabled Unicast Event Planning Management System through an online platform on May 8, 2025
+
 ## Microsoft Trainee
 
 Currently completing Microsoft Learn modules and virtual labs focused on cloud computing, productivity tools, and modern development technologies.
